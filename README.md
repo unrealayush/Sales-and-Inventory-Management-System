@@ -14,8 +14,7 @@
 *	Make Invoice
 *	Check Available Products
 
-### Need More Info? 
-[Documentation](https://github.com/pj28105/Sales-and-Inventory-Management-System/blob/master/Documentation/Sales%20and%20Inventory%20Management%20System.docx)
+
 
 # Requirements
 ```
@@ -33,5 +32,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
-# Features / Queries
-Project features and queries are being tracked [here](https://github.com/pj28105/Sales-and-Inventory-Management-System/issues).
+
